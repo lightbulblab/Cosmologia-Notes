@@ -1,5 +1,4 @@
-# Cosmologia Notes
-### Appunti di Cosmologia A.A. 2019-2020
+![Header](Pictures/header.jpg)
 
 *Come ogni piatto di cucina moderna è incompleto senza una salsa di accompagnamento, così
 anche i corsi universitari necessitano di una guida che armonizzi i contenuti e li spinga in un altra
@@ -11,8 +10,6 @@ testo potrebbe leggermente discostarsi dalle lezioni frontali nei Capitoli 4 e 5
 una perfetta fluidità e chiarezza, ma tanto divertimento e tante figure glitterate. Nell’ultimo capitolo
 sono riportati una serie di spunti di approfondimento dalla letteratura.*
 
-
-![Header](Pictures/header.jpg)
 
 ### Capitoli e contenuto
 1. **Introduzione**: metrica e distanze
